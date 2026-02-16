@@ -86,32 +86,32 @@
   },
   {
     "name": "Anime Web T1",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:SubsPlease|Erai-raws|MTBB|Mysteria|Asenshi|Tsundere|BlueLobster|1080pFilmFan)\\b).*/i",
+    "pattern": "/\\b(SubsPlease|Erai-raws|MTBB|Mysteria|Asenshi|Tsundere|BlueLobster|1080pFilmFan)\\b/i",
     "score": 1100
   },
   {
     "name": "Anime Web T2",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:YuiSubs|Tenrai-Sensei|GJM|Commie|CRC32|HorribleSubs)\\b).*/i",
+    "pattern": "/\\b(YuiSubs|Tenrai-Sensei|GJM|Commie|CRC32|HorribleSubs)\\b/i",
     "score": 1050
   },
   {
     "name": "Anime Web T3",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:Chihiro|Underwater|Vivid|UTW|Mazui|WhyNot)\\b).*/i",
+    "pattern": "/\\b(Chihiro|Underwater|Vivid|UTW|Mazui|WhyNot)\\b/i",
     "score": 1000
   },
   {
     "name": "Anime Web T4",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:Kametsu|PAS|LoliHouse|Judas|EMBER)\\b).*/i",
+    "pattern": "/\\b(Kametsu|PAS|LoliHouse|Judas|EMBER)\\b/i",
     "score": 950
   },
   {
     "name": "Anime Web T5",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:GST|DeadFish|LostYears|NanDesuKa|Reaktor|Cleo)\\b).*/i",
+    "pattern": "/\\b(GST|DeadFish|LostYears|NanDesuKa|Reaktor|Cleo)\\b/i",
     "score": 900
   },
   {
     "name": "Anime Web T6",
-    "pattern": "/^(?=.*(WEB[-_. ]DL(?:mux)?|WEBDL|AmazonHD|AmazonSD|iTunesHD|MaxdomeHD|NetflixU?HD|WebHD|HBOMaxHD|DisneyHD|[. ]WEB[. ](?:[xh][ .]?26[45]|AVC|HEVC|DDP?[ .]?5[. ]1)|(?:720|1080|2160)p[-. ]WEB[-. ]|[-. ]WEB[-. ](?:720|1080|2160)p|(?:AMZN|NF|DP)[. -]WEB[. -](?!Rip)|WebRip|Web-Rip|WEBMux|\\[WEB\\]|[\\[\\(]WEB[ .]))(?=.*\\b(?:Anime Time|AnimeKaizoku|Hakata Ramen|Hi10|VARYG)\\b).*/i",
+    "pattern": "/\\b(Anime Time|AnimeKaizoku|Hakata Ramen|Hi10|VARYG)\\b/i",
     "score": 850
   },
   {
