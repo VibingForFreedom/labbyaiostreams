@@ -1,5 +1,5 @@
 [
-  {"name": "Bad Groups", "pattern": "/\\b(24xHD|4K4U|aXXo|BARC0DE|CrEwSaDe|d3g|DNL|FGT|GalaxyRG|GPTHD|HDHUB4U|HDTime|iNTENSO|iPlanet|LAMA|MeGusta|mHD|mSD|MySiLU|nHD|Pahe|PSA|RARBG|RDN|Tigole|VISIONPLUSHDR|YIFY|YTS)\\b/i"},
+  {"name": "Bad Groups", "pattern": "/\\b(24xHD|4K4U|aXXo|BARC0DE|CrEwSaDe|d3g|DNL|FGT|GalaxyRG|GPTHD|HDHUB4U|HDTime|iNTENSO|iPlanet|LAMA|mHD|mSD|MySiLU|nHD|Pahe|PSA|RARBG|RDN|Tigole|VISIONPLUSHDR|YIFY|YTS)\\b/i"},
   {"name": "CAM/TS", "pattern": "/(\\bCAM\\b|\\bTS\\b|\\bTELESYNC\\b|\\bTELECINE\\b|\\bTC\\b|\\bHDCAM\\b|\\bHD[-_. ]?CAM\\b|\\bHD[-_. ]?TS\\b)/i"},
   {"name": "Screener", "pattern": "/(\\bSCR\\b|\\bSCREENER\\b|\\bDVDSCR\\b|\\bDVD[-_. ]?SCR\\b|\\bBDSCR\\b)/i"},
   {"name": "Low Quality", "pattern": "/(\\bHDRip\\b.*\\b(RDN|STARTER|WHiZZ)\\b|\\bR5\\b|\\bR6\\b|\\bWORKPRINT\\b|\\bWP\\b)/i"},

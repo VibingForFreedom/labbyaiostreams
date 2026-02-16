@@ -116,7 +116,12 @@
   },
   {
     "name": "Bad",
-    "pattern": "/\\b(24xHD|4K4U|aXXo|BARC0DE|CrEwSaDe|d3g|DNL|FGT|GalaxyRG|GPTHD|HDHUB4U|HDTime|iNTENSO|iPlanet|LAMA|MeGusta|mHD|mSD|MySiLU|nHD|Pahe|PSA|RARBG|RDN|Tigole|VISIONPLUSHDR|YIFY|YTS)\\b/i",
+    "pattern": "/\\b(24xHD|4K4U|aXXo|BARC0DE|CrEwSaDe|d3g|DNL|FGT|GalaxyRG|GPTHD|HDHUB4U|HDTime|iNTENSO|iPlanet|LAMA|mHD|mSD|MySiLU|nHD|Pahe|PSA|RARBG|RDN|Tigole|VISIONPLUSHDR|YIFY|YTS)\\b/i",
     "score": -10000
+  },
+  {
+    "name": "Low Priority",
+    "pattern": "/\\b(MeGusta)\\b/i",
+    "score": 100
   }
 ]
